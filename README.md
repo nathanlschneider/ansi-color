@@ -2,7 +2,7 @@
 Easily use 4 bit ANSI colors in your HTML or terminal 
 
 ## Why
-Well, because I can. And as lovely as Chalk is, it's a bit over engineered for use with NextJS and gives me errors than it was worth.
+Well, because I can. And as lovely as Chalk is, it's a bit over-engineered for use with Next.js and gives me more errors than it was worth.
 
 <ul>
  <li>Use with TypeScript or JavaScript.</li>
