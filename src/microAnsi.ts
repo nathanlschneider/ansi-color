@@ -1,4 +1,4 @@
-const tiny = {
+const ansi = {
   black: (t:"") => `\x1b[30;1;4m${t}\x1b[0m`,
   red: (t:"") => `\x1b[31;1;4m${t}\x1b[0m`,
   green: (t:"") => `\x1b[32;1;4m${t}\x1b[0m`,
@@ -33,4 +33,4 @@ const tiny = {
   bgBrightWhite: (t:"") => `\x1b[107;1;4m${t}\x1b[0m`,
 };
 
-export default tiny;
+export default ansi;
