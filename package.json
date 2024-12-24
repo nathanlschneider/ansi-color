@@ -2,9 +2,9 @@
   "name": "tiny-color",
   "version": "1.0.0",
   "description": "Easily use 4 bit ANSI colors in your HTML or terminal",
-  "main": "./dist/ansiColor.js",
-  "module": "./dist/ansiColor.mjs",
-  "types": "./dist/ansiCoor.d.ts",
+  "main": "./dist/tinyColor.js",
+  "module": "./dist/tinyColor.mjs",
+  "types": "./dist/tinyColor.d.ts",
   "files": [
     "dist"
   ],

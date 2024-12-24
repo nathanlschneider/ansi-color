@@ -7,7 +7,7 @@ Well, because I can. And as lovely as Chalk is, it's a bit over-engineered for u
 <ul>
  <li>Use with TypeScript or JavaScript.</li>
  <li>NextJS safe.</li>
- <li>Super simple. It's literally tiny.</li>
+ <li>Super simple. It's literally tiny. 1.33kb</li>
 </ul>
 
 ## Installation
