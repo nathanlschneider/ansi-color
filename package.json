@@ -1,5 +1,38 @@
 {
+  "name": "tiny-color",
+  "version": "1.0.0",
+  "description": "Easily use 4 bit ANSI colors in your HTML or terminal",
+  "main": "./dist/ansiColor.js",
+  "module": "./dist/ansiColor.mjs",
+  "types": "./dist/ansiCoor.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanlschneider/tiny-color.git"
+  },
+  "keywords": [
+    "nextjs",
+    "log",
+    "color",
+    "terminal",
+    "ansi",
+    "chalk"
+  ],
+  "author": "Nathan Schneider",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanlschneider/tiny-color/issues"
+  },
+  "homepage": "https://github.com/nathanlschneider/tiny-color#readme",
   "devDependencies": {
-    "tsup": "^8.3.5"
+    "ts-node": "^10.9.2",
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
   }
 }

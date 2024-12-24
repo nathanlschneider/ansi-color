@@ -1,4 +1,4 @@
-# Ansi-color
+# tiny-color
 Easily use 4 bit ANSI colors in your HTML or terminal 
 
 ## Why
@@ -13,7 +13,7 @@ Well, because I can. And as lovely as Chalk is, it's a bit over-engineered for u
 ## Installation
 
 ```sh
-npm import ansi-color
+npm import tiny-color
 ```
 
 ## Usage
