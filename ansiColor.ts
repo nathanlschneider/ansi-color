@@ -1,4 +1,4 @@
-const ansi = {
+const color = {
     black: (text: string) => `\x1b[30;1;4m${text}\x1b[0m`,
     red: (text: string) => `\x1b[31;1;4m${text}\x1b[0m`,
     green: (text: string) => `\x1b[32;1;4m${text}\x1b[0m`,
@@ -33,5 +33,5 @@ const ansi = {
     bgBrightWhite: (text: string) => `\x1b[107m${text}\x1b[0m`,
   };
 
-export default ansi;
+export default color;
   
