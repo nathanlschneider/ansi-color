@@ -1,6 +1,6 @@
 {
   "name": "micro-ansi",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Easily use 4 bit ANSI colors in your HTML or terminal",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
